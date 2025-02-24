@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=4277e8&height=150&section=header&text=Seo-Yurim&fontSize=50&fontColor=FBFBEF&fontAlignY=30&fontAlign=80&animation=fadeIn" />
 </p>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
