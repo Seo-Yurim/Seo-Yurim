@@ -36,6 +36,12 @@
 </div>
 
 <div align="center">
+ <img src="https://img.shields.io/badge/Netlify-ffffff.svg?style=for-the-badge&logo=Netlify&logoColor=green" />  
+ <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" />
+ <img src="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
