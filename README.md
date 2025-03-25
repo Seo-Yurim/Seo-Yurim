@@ -21,21 +21,6 @@
 
 &nbsp;
 
-<h3 align="center">Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-<div align="center">
- <img src="https://img.shields.io/badge/Netlify-ffffff.svg?style=for-the-badge&logo=Netlify&logoColor=green" />  
- <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" />
- <img src="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white" />
-</div>
-
-&nbsp;
-
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-Yurim)  
